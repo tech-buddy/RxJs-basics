@@ -1,4 +1,6 @@
 
+> How to create and subscribe to Observable Stream ?
+
 ```sh
 let numbers = [1,5,10];
 //create Observable
